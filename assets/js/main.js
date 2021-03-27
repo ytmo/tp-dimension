@@ -68,12 +68,6 @@
 
 				var $article = $main_articles.filter('#' + id);
 
-				// lazy load
-				if (id == "contact")
-				{
-					$('.con_iframe').attr('src', "https://www.projectoms.com/pc/view/Write-Message.htm");
-				}
-
 				// No such article? Bail.
 					if ($article.length == 0)
 						return;
