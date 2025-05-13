@@ -499,7 +499,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Pro';
+				font-family: 'Font Awesome 6 Pro';
 				font-weight: 900;
 			}
 
@@ -608,7 +608,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Pro';
+			font-family: 'Font Awesome 6 Pro';
 			font-weight: 400;
 		}
 
@@ -626,7 +626,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 6 Brands';
 		}
 
 		.icon_ring {
