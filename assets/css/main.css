@@ -1,4 +1,4 @@
-@import url("https://assets.projectoms.com/css/fontawesome-all-v6.min.css");
+@import url("https://assets.projectoms.com/css/fontawesome-all-v7.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 html, body, div, span, applet, object,
@@ -499,7 +499,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 6 Pro';
+				font-family: 'Font Awesome 7 Pro';
 				font-weight: 900;
 			}
 
@@ -608,7 +608,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 6 Pro';
+			font-family: 'Font Awesome 7 Pro';
 			font-weight: 400;
 		}
 
@@ -626,7 +626,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 6 Brands';
+			font-family: 'Font Awesome 7 Brands';
 		}
 
 		.icon_ring {
